@@ -33,4 +33,4 @@ tenacity
 tgcrypto
 uvloop
 xattr
-git+https://github.com/hartemis/ytdlp
+git+https://github.com/incibaba/yotlo
